@@ -1,9 +1,6 @@
-<p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feemmaaay1221&count_bg=%23FF69B4&title_bg=%23FFB6C1&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
-</p>
+## Hello World! I'm Emily Gamboa <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 💕
 
-## Hello World! I'm Emily Gamboa <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
-
+<p align="center">
   
 </p>
 
@@ -36,5 +33,4 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eemmaaay1221&layout=compact&theme=synthwave" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eemmaaay1221&layout=compact&theme=synthwave" alt="
