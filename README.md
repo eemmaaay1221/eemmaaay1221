@@ -1,4 +1,6 @@
-<img align="right" src="https://count.getloli.com/get/@:eemmaaay1221?theme=moebooru">
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feemmaaay1221&count_bg=%23FF69B4&title_bg=%23FFB6C1&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
+</p>
 
 ## Hello World! I'm Emily Gamboa 💕 <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
@@ -25,15 +27,9 @@
 
 ### Tech Stack & Tools 🛠️
 ![Java](https://img.shields.io/badge/-Java-%23FFB6C1?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-%23FF69B4?style=flat&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-%23DA70D6?style=flat&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-%23BA55D3?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23FF80AB?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-%23EA80FC?style=flat&logo=css&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-%23D8BFD8?style=flat&logo=MySQL&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23FF1493?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-%23330033?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-%238A2BE2?style=flat&logo=vscode&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%23FF69B4?style=flat&logo=python&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/-NetBeans-%23BA55D3?style=flat&logo=apache-netbeans&logoColor=white)
 
 
 ### Featured Projects 🎀 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
@@ -49,7 +45,9 @@
 ![eemmaaay1221's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=eemmaaay1221&show_icons=true&theme=synthwave&rank_icon=github)
 
 ### GitHub Activity Graph 📈 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-[![eemmaaay1221's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eemmaaay1221&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eemmaaay1221&theme=dracula&hide_border=true" width="100%" />
+</p>
 
 #
 
