@@ -4,10 +4,7 @@
 
 ## Hello World! I'm Emily Gamboa 💕 <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
-<p align="center">
-  <a href="https://github.com/eemmaaay1221">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=FF69B4&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I%27m+Emily+Gamboa+%F0%9F%90%B1;Information+Systems+Engineering+Student+%F0%9F%8D%93;4th+Semester+at+Universidad+Central+del+Ecuador+%F0%9F%8F%EB;Exploring+Java%2C+Python%2C+Arduino%2C+and+Database+Dev+%F0%9F%92%BB;Always+eager+to+learn+and+build+new+things+%F0%9F%9A%80;">
-  </a>
+  
 </p>
 
 ### About Me 🌸
